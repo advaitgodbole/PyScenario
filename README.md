@@ -1,4 +1,4 @@
-# PyScenario
+# pyscenario
 
 Date: 3rd April 2018
 
